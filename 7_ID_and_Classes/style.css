@@ -1,0 +1,15 @@
+.red{
+
+  color: red
+}
+/* . represents Id's here. */
+.bg-yellow{
+
+  background-color: yellow
+}
+
+#firstdiv{
+
+    /* background-color: red; */
+}
+/* # represents classes here. */
